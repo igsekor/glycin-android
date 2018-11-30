@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_min_size">48dp</dimen>
+    <dimen name="default_min_margin">60dp</dimen>
+    <dimen name="default_text_label_size">30sp</dimen>
+    <dimen name="default_between_views_in_group">20dp</dimen>
+</resources>
